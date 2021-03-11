@@ -1,0 +1,11 @@
+export default {
+  FONT_SIZE_SMALL: 14,
+  FONT_SIZE_MEDIUM: 18,
+  FONT_SIZE_LARGE: 20,
+  PRIMARY_COLOR: '#0d525f',
+  PRIMARY_COLOR_LITE: '#18b0b0',
+  PRIMARY_COLOR_XLITE: '#9affdc',
+  SECONDARY_COLOR: '#db6400',
+  SPECIAL_COLOR: '#ffa62b',
+  WHITE_COLOR: '#fffef8',
+};
