@@ -51,21 +51,21 @@ Here is the original app demo video on Youtube:
 # Tech Stack
 
 ### Frontend
-- React Native 
-- Expo
-- Apollo Client 
-- React Spring
-- Lottie 
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.io/)
+- [Apollo Client with WebSocket Subscriptions](https://www.apollographql.com/docs/react/) 
+- [React Spring](https://www.react-spring.io/)
+- [Lottie](https://airbnb.io/lottie/#/) 
 
 ## Backend
-- Apollo Server 
-- GraphQL 
-- MongoDB
-- Mongoose
+- [GraphQL](https://graphql.org/) 
+- [Apollo Server with WebSocket Subscriptions](https://www.apollographql.com/docs/apollo-server/)
+- [MongoDB](https://www.mongodb.com/)
+- [Mongoose](https://mongoosejs.com/)
 
 ## APIs
-- Google Maps
-- Google Places 
+- [Google Maps](https://developers.google.com/maps)
+- [Google Places](https://cloud.google.com/maps-platform/places) 
 
 
 
