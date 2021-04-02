@@ -51,21 +51,21 @@ Here is the original app demo video on Youtube:
 # Tech Stack
 
 ### Frontend
-React Native 
-Expo
-Apollo Client 
-React Spring
-Lottie 
+- React Native 
+- Expo
+- Apollo Client 
+- React Spring
+- Lottie 
 
 ## Backend
-Apollo Server 
-GraphQL 
-MongoDB
-Mongoose
+- Apollo Server 
+- GraphQL 
+- MongoDB
+- Mongoose
 
 ## APIs
-Google Maps
-Google Places 
+- Google Maps
+- Google Places 
 
 
 
