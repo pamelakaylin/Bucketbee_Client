@@ -15,7 +15,7 @@ Bucketbee is a mobile (IOS) app designed to help frequent travellers and global 
 
 # Getting started
 
-The client and server for this project has been split up into two separate repos; both need to be up and running for the app to be functional. Find the server [here](https://github.com/pamelakaylin/Bucketbee_Server)
+### The client and server for this project has been split up into two separate repos; both need to be up and running for the app to be functional. Find the server [here](https://github.com/pamelakaylin/Bucketbee_Server) <-----
 
 1. Clone this repo
 
