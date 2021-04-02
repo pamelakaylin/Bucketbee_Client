@@ -22,6 +22,12 @@ The client and server for this project has been split up into two separate repos
 ```javascript
 git clone https://github.com/pamelakaylin/Bucketbee_Client.git 
 ```
+2. Navigate into the root folder and install the dependencies
+
+```javascript
+npm install
+```
+
 
 # App demo video
 
