@@ -68,9 +68,9 @@ Here is the original app demo video on Youtube:
 - [Google Places](https://cloud.google.com/maps-platform/places) 
 - [Cloudinary](https://cloudinary.com/) 
 
-# Contributors
+# Contributors ✨
 
-Pamela Chen 
+### Pamela Chen 
 - [Github](https://github.com/pamelakaylin)
 - [LinkedIn](https://www.linkedin.com/in/pamela-chen-60377216b/)
 
