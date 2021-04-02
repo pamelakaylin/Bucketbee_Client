@@ -17,28 +17,28 @@ Bucketbee is a mobile app designed to help frequent travellers and global citize
 
 ### The client and server for this project has been split up into two separate repos; both need to be up and running for the app to be functional. Find the server [here](https://github.com/pamelakaylin/Bucketbee_Server).
 
-1. Clone this repo
+#### 1. Clone this repo
 
 ```
 git clone https://github.com/pamelakaylin/Bucketbee_Client.git 
 ```
-2. Navigate into the root folder and install the dependencies
+#### 2. Navigate into the root folder and install the dependencies
 
 ```
 npm install
 ```
-3. APIs
+#### 3. APIs
 
 - Setup an account on Google Cloud Platform, create a new project, enable the Places API, and generate an API key.
 - Create an .env file and add REACT_NATIVE_GOOGLE_API_KEY=[put_api_key_here]
 
-4. Start the app!
+#### 4. Start the app!
 
 ```
 expo start
 ```
 
-5. Set up the server if you haven't already done so
+#### 5. Set up the server if you haven't already done so
 
 - You can find instructions in the server README [here](https://github.com/pamelakaylin/Bucketbee_Server).
 
