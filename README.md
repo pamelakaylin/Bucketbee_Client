@@ -2,6 +2,8 @@
 
 ## Lifestyle app for global citizens (mobile)
 
+### Buckbetbee is a mobile (IOS) app designed to help frequent travellers and global citizens keep tabs on their favourite people and places. 
+
 ![buckbetbee_intro](https://user-images.githubusercontent.com/59074533/113441443-3d970280-93e6-11eb-8210-08a965fc2fd9.png)
 
 ![bb_init](https://user-images.githubusercontent.com/59074533/113441456-42f44d00-93e6-11eb-8b78-be681ed62f18.png)
