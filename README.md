@@ -1,8 +1,8 @@
 # Bucketbee
 
-## Lifestyle app for global citizens (mobile)
+## Lifestyle app for global citizens
 
-Bucketbee is a mobile (IOS) app designed to help frequent travellers and global citizens keep tabs on their favourite people and places. 
+Bucketbee is a mobile app designed to help frequent travellers and global citizens keep tabs on their favourite people and places. 
 1. It helps users connect with close friends and family conveniently with "quick actions" such as sending out location updates.
 2. Users can create buckets, in which they can categorize and customize their favorite places for future reference.  
 3. Users can personalize their own places, digital postcards, and even profile style.
