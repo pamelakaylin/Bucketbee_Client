@@ -68,4 +68,9 @@ Here is the original app demo video on Youtube:
 - [Google Places](https://cloud.google.com/maps-platform/places) 
 
 
+# Next Steps
+
+- Bucketbee is fully optimized for IOS and is currently being adapted for Android.
+- After the final touches, Bucketbee will be launched via the App Store and Google Play Store. 
+
 
