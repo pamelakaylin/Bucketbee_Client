@@ -12,3 +12,11 @@ Bucketbee is a mobile (IOS) app designed to help frequent travellers and global 
 ![bucketbee demo](https://user-images.githubusercontent.com/59074533/113442905-d29afb00-93e8-11eb-8b6a-1aadc7963b67.png)
 
 ![bucketbee demo (1)](https://user-images.githubusercontent.com/59074533/113442697-71732780-93e8-11eb-9d1a-2a29d43b506b.png)
+
+# Getting started
+
+# App demo video
+
+Here is the original app demo video on Youtube:
+[![Screenshot 2021-04-02 at 18 10 28](https://user-images.githubusercontent.com/59074533/113443028-0ece5b80-93e9-11eb-952c-0cd890382c66.png)](https://www.youtube.com/watch?v=pKOvp1QCg0g)
+
