@@ -1,6 +1,6 @@
 # Bucketbee
 
-Lifestyle app for global citizens (mobile) 
+## Lifestyle app for global citizens (mobile)
 
 CODE INCOMING later today - currently in separate client & server folder! 
 
