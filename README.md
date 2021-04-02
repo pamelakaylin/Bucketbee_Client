@@ -66,6 +66,8 @@ Here is the original app demo video on Youtube:
 ## APIs
 - [Google Maps](https://developers.google.com/maps)
 - [Google Places](https://cloud.google.com/maps-platform/places) 
+- [Cloudinary](https://cloudinary.com/) 
+
 
 
 # Next Steps
