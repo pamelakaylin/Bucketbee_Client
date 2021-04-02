@@ -71,6 +71,6 @@ Here is the original app demo video on Youtube:
 # Next Steps
 
 - Bucketbee is fully optimized for IOS and is currently being adapted for Android
-- After the final touches, Bucketbee will be launched via the App Store and Google Play Store 🚀
+- After some finishing touches, Bucketbee will be launched via the App Store and Google Play Store 🚀
 
 
