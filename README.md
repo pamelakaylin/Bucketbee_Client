@@ -72,7 +72,7 @@ Here is the original app demo video on Youtube:
 
 ### Pamela Chen 
 - [Github](https://github.com/pamelakaylin)
-- [LinkedIn](https://www.linkedin.com/in/pamela-chen-60377216b/)
+- [LinkedIn](https://www.linkedin.com/in/pamelakaylin/)
 
 # Next Steps
 
